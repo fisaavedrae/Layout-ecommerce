@@ -9,4 +9,5 @@ Para desarrollar estoy usando un macbook air con una resolución de 1440x900, si
 
 
 [link repo](https://github.com/fisaavedrae/Layout-ecommerce)
+
 [link live app](https://layout-ecommerce.vercel.app/)
